@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hemali-dodia
+- 👋 Hi, I’m @hemali-dodia, Software Developer by profession.
 - 👀 I’m interested in Python, Automation, and new opportunities 
 - 🌱 I’m currently learning PHP 
   📫 How to reach me 8779312096
